@@ -1,5 +1,5 @@
 - 👋 merhaba ben Giray
-- github'da yeniyim muhabbete gel!
+- Github'da yeniyim muhabbete gel!
 
 
 [![Spotify](https://novatorem-artisticpointofview1.vercel.app/api/spotify)](https://open.spotify.com/user/11183124245)
