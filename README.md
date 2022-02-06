@@ -1,4 +1,3 @@
-- 👋 merhaba ben Giray
 - Github'da yeniyim muhabbete gel!
 
 
